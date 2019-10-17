@@ -1,0 +1,4 @@
+Shortest route from DC 'a' to reach Warehouse 'j' is [a d f i j]
+and it has minimum travel distance 18.0 km
+it will take him 18.0 minutes to reach
+Expected arrival time at the warehouse is 10:18 AM
